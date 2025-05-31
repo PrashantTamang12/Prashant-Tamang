@@ -9,7 +9,8 @@ The course provided an in-depth look at object-oriented programming and essentia
 
 ## 📜 Certificate
 
-![C++ Certificate](https://api2.sololearn.com/v2/certificates/CC-I5EZ4KOR/image/png?t=638842691894571050)
+![C++ Certificate]
+(https://api2.sololearn.com/v2/certificates/CC-I5EZ4KOR/image/png?t=638842691894571050)
 
 ---
 
